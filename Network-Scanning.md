@@ -6,7 +6,7 @@ On first connection to a target network in a black box assignment, our first obj
 
 ### NMAP
 
-[More about NMAP](NMAP#ICMP-Network-Scanning)
+[More about NMAP](NMAP.md#ICMP-Network-Scanning)
 
 ### Nessus
 
