@@ -6,9 +6,6 @@ Port scanning is a popular method for information gathering that identifies whic
 
 Overview of [TCP & UDP](TCP-UDP.md)
 
-https://www.mindcentric.com/blog/vulnerability-scanning-vs-penetration-testing
-https://www.secjuice.com/port-scanning-penetration-testing-part-three/
-
 ## NMAP
 
 [More about NMAP](NMAP.md)

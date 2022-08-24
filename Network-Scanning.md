@@ -8,9 +8,6 @@ On first connection to a target network in a black box assignment, our first obj
 
 [More about NMAP](NMAP.md#ICMP-Network-Scanning)
 
-### Nessus
-
-[[Nessus]]
 
 ### Nikto
 
